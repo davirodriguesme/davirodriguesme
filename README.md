@@ -21,6 +21,6 @@ Olá, Meu nome é Davi✨,
 ![whatzap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 **status:**
-[![davirodriguesme GitHub stats](https://github-readme-stats.vercel.app/api?username=davirodriguesme)](https://github.com/davirodriguesme/github-readme-stats)
+![davirodriguesme GitHub stats](https://github-readme-stats.vercel.app/api?username=davirodriguesme&show_icons=true&theme=radical)
 
 
